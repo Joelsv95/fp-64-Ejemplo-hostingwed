@@ -1,2 +1,3 @@
 # fp-64-Ejemplo-hostingwed
-Ejemplo de hosting de pagina web estática
+
+Este es un ejemplo como utilizar GitHub como hosting para pagina web estatica.
